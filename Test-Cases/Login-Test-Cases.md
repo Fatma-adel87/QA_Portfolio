@@ -1,4 +1,3 @@
-“}
 # Login Test Cases - SauceDemo
 
 ## TC01 - Valid Login

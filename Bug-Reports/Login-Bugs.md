@@ -20,4 +20,5 @@ Priority: Hig
 
 Screenshot:
 
-![Bug Screenshot](../screenshots/login-error.png)
+
+![Bug Screenshot](../Screenshots/Login-error.PNG)

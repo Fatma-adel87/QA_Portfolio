@@ -17,3 +17,7 @@ Generic or unclear error message displayed
 
 Severity: Medium  
 Priority: Hig
+
+Screenshot:
+
+![Bug Screenshot](../screenshots/login-error.png)

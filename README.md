@@ -1,4 +1,3 @@
-# QA_Portfolio
 d001"}
 # QA Testing Project - SauceDemo
 
